@@ -1,16 +1,16 @@
-# assignment2
+Assignment 2
+A Flutter application that fetches product data (name, price, and image) from the dummyjson API, displays the data in a user-friendly format, and allows offline data storage using Hive for persistence. The app utilizes the Provider package for state management.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Fetch product data (name, price, and image) from the dummyjson API.
+Display product details in a grid view.
+Save fetched data for offline use.
+Manage state efficiently using the Provider package.
+Technologies Used
+Flutter
+Provider: State management
+Hive: Offline data storage
+HTTP: API integration
+![WhatsApp Image 2024-11-19 at 02 31 44_5c579826](https://github.com/user-attachments/assets/090eaf86-c078-4ed6-8643-6410bb9675d7)
+![WhatsApp Image 2024-11-19 at 02 31 45_6cf09097](https://github.com/user-attachments/assets/6ae92db0-21d3-4a9d-94c3-b2b78b3d1662)
+ 
